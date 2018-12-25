@@ -50,7 +50,7 @@ This will proxy your app over at
 https://a-subdomain-that-you-want.localtunnel.me/
 ```
 
-You should now be able to configure this for your GitHub OAuth and recieve webhooks from netlify.
+You should now be able to configure this for your GitHub OAuth and receive webhooks from netlify.
 
 # Selectively set DEBUG env var to get logs
 DEBUG=express-mongoose-es6-rest-api:* yarn start
