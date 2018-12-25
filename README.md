@@ -2,7 +2,7 @@
 
 # hackathon-leaderboard
 
-> [freeCodeCamp.org](https://www.freecodecamp.org)'s hackathon projects index for the [2018 JAMstack Hackthon](https://hackathon.freecodecamp.org/).
+> [freeCodeCamp.org](https://www.freecodecamp.org)'s hackathon projects index for the [2018 JAMstack Hackathon](https://hackathon.freecodecamp.org/).
 
 ## Getting Started
 
